@@ -12,6 +12,14 @@ Projekt i zhvilluar nga **4 studentë**, ku secili ka punuar në një pjesë të
 
 ---
 
+👥 Ekipi
+Leon Hoxhaj: Shto librat (shto_liber.cpp)
+Studenti 2: Shfaq librat (shfaq_liber.cpp)
+Studenti 3: Kërko dhe fshi librat (kerko_fshi.cpp)
+Studenti 4: Dokumentacioni dhe udhëzimet (dokumentacion.cpp)
+
+---
+
 ## ⚙️ Funksionet kryesore
 1. **Shto libër** – Regjistron titullin dhe autorin e librit.  
 2. **Shfaq librat** – Shfaq të gjithë librat e regjistruar.  
@@ -45,11 +53,3 @@ Ekzekuto programin:
 
 bash
 ./LibraryManager
-
----
-
-👥 Ekipi
-Leon Hoxhaj: Shto librat (shto_liber.cpp)
-Studenti 2: Shfaq librat (shfaq_liber.cpp)
-Studenti 3: Kërko dhe fshi librat (kerko_fshi.cpp)
-Studenti 4: Dokumentacioni dhe udhëzimet (dokumentacion.cpp)
