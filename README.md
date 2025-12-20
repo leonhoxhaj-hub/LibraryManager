@@ -13,10 +13,10 @@ Projekt i zhvilluar nga **4 studentë**, ku secili ka punuar në një pjesë të
 ---
 
 👥 Ekipi
-Leon Hoxhaj: Shto librat (shto_liber.cpp)
-Studenti 2: Shfaq librat (shfaq_liber.cpp)
-Studenti 3: Kërko dhe fshi librat (kerko_fshi.cpp)
-Studenti 4: Dokumentacioni dhe udhëzimet (dokumentacion.cpp)
+- Leon Hoxhaj: Shto librat (shto_liber.cpp)
+- Studenti 2: Shfaq librat (shfaq_liber.cpp)
+- Studenti 3: Kërko dhe fshi librat (kerko_fshi.cpp)
+- Studenti 4: Dokumentacioni dhe udhëzimet (dokumentacion.cpp)
 
 ---
 
@@ -29,6 +29,7 @@ Studenti 4: Dokumentacioni dhe udhëzimet (dokumentacion.cpp)
 ---
 
 ## 🗂️ Struktura e Projektit
+```
 LibraryManager/
 │
 ├─ main.cpp # Skedari kryesor që thërret funksionet
@@ -39,17 +40,18 @@ LibraryManager/
 ├─ librat.txt # Skedari ku ruhen librat
 └─ README.md # Ky dokument
 
+```
 ---
 
 ## 🚀 Si të përdoret
 1. Klono repository-n:
 ```bash
 git clone https://github.com/username/LibraryManager.git
-Kompilo programin:
 
-bash
+2. Kompilo programin:
 g++ main.cpp shto_liber.cpp shfaq_liber.cpp kerko_fshi.cpp dokumentacion.cpp -o LibraryManager
-Ekzekuto programin:
 
-bash
+3.Ekzekuto programin:
+
 ./LibraryManager
+```
